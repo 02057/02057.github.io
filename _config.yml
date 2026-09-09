@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman
 title: 02057的博客
-description: 这是02057的技术笔记
+description: 这是02057的任务列表
 plugins:
 - jekyll-remote-theme
