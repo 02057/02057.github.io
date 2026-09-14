@@ -84,4 +84,10 @@ title: 02057的博客
   task2(10)这是一张单纯的图片
 </a>
 
+<a href="/task2-11.html" style="
+  display: block; padding: 15px 20px; background-color: #2563eb;
+  color: white; text-align: center; text-decoration: none;
+  border-radius: 8px; font-size: 18px; font-weight: bold;">
+  task2(11)/.-
+</a>
 </div>
