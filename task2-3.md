@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "task2(3) - Ctrl+U 查看 HTML 实体编码获取 Flag"
+title: "task2(3)alert"
 ---
 
 # task2(3)：Ctrl+U 查看 HTML 实体编码获取 Flag
