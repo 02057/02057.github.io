@@ -3,9 +3,9 @@ layout: default
 title: 02057的博客
 ---
 
-# 欢迎来到我的博客
+<h1 style="text-align: center;">欢迎来到我的博客</h1>
 
-<div style="display: flex; flex-direction: column; gap: 15px; margin-top: 30px; max-width: 300px;">
+<div style="display: flex; flex-direction: column; gap: 15px; margin: 30px auto 0; max-width: 300px; width: 100%;">
 
   <a href="/task1/" style="
     display: block;
