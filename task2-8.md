@@ -21,3 +21,17 @@ title: "task2(8)GIT- .git 泄露获取 Flag"
     CMD中安装git-dumper
 
 ### 2.python 下载仓库并解压
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  ">
+    ← 返回首页
+  </a>
+</div>
