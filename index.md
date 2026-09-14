@@ -2,9 +2,37 @@
 layout: default
 title: 02057的博客
 ---
-<a href="https://02057.github.io/task1" style="color: blue; font-size: 24px; text-decoration: underline; cursor: pointer;">
-  task1
-</a >
-<a href="/task2/" style="color: blue; font-size: 24px; text-decoration: underline;">
-  task2
-</a>
+
+# 欢迎来到我的博客
+
+<div style="display: flex; flex-direction: column; gap: 15px; margin-top: 30px; max-width: 300px;">
+
+  <a href="/task1/" style="
+    display: block;
+    padding: 15px 20px;
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+  ">
+    Task 1
+  </a>
+
+  <a href="/task2/" style="
+    display: block;
+    padding: 15px 20px;
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+  ">
+    Task 2
+  </a>
+
+</div>
