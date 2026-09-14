@@ -17,4 +17,6 @@ title: "task2(8)GIT- .git 泄露获取 Flag"
 
 ## 三、解题步骤
 
-### 1.cmd：
+### 1.安装git-dumper
+    CMD中安装git-dumper
+### 2.python 下载仓库并解压
