@@ -17,3 +17,17 @@ title: "Task 2 - 滑稽（查看网页源代码获取 Flag）"
 1. 打开目标网页。
 2. 按下 `Ctrl+U` 查看网页源代码。
 3. 在源代码中搜索关键词 `flag`，找到类似 `flag{...}` 的字符串，即为 Flag。
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  ">
+    ← 返回首页
+  </a>
+</div>
