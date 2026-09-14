@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "task2(3)alert"
+title: "task2(3)alert：Ctrl+U 查看 HTML 实体编码获取 Flag"
 ---
 
-# task2(3)：Ctrl+U 查看 HTML 实体编码获取 Flag
+# task2(3)alert：Ctrl+U 查看 HTML 实体编码获取 Flag
 
 ## 一、题目信息
 平台：CTF靶场  
