@@ -32,19 +32,21 @@ title: 02057的博客
     font-size: 18px;
     font-weight: bold;
   ">
-    Task 2(1)滑稽
+    task2(1)滑稽
   </a>
-<a href="/task2-2/" style="
-  display: block;
-  padding: 15px 20px;
-  background-color: #2563eb;
-  color: white;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 18px;
-  font-weight: bold;
-">
-  task2(2)计算器
-</a>
+
+  <a href="/task2-2/" style="
+    display: block;
+    padding: 15px 20px;
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+  ">
+    task2(2)计算器
+  </a>
+
 </div>
