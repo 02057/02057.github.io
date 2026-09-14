@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Task 2 - 滑稽（查看网页源代码获取 Flag）"
-permalink: /task2/
 ---
 
 # Task 2滑稽：查看网页源代码获取 Flag
