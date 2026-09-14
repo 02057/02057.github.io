@@ -19,3 +19,17 @@ title: "Task 2(2)：计算器 - Ctrl+U 查看 JS 获取 Flag"
 3. 在源代码中找到类似 `<script src="js/code.js"></script>` 的引用。
 4. 点击 `js/code.js` 链接，或直接在地址栏访问 `http://靶场地址/js/code.js`。
 5. 在打开的 JS 文件中搜索关键词 `flag`，找到类似 `flag{...}` 的字符串，即为 Flag。
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  ">
+    ← 返回首页
+  </a>
+</div>
