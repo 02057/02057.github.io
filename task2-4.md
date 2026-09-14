@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "task2(4) - ESC 停止刷新 + Ctrl+U 获取 Flag"
+title: "task2(4)你必须让他停下 - ESC 停止刷新 + Ctrl+U 获取 Flag"
 ---
 
-# task2(4)：ESC 停止刷新 + Ctrl+U 获取 Flag
+# task2(4)你必须让他停下：ESC 停止刷新 + Ctrl+U 获取 Flag
 
 ## 一、题目信息
 平台：CTF靶场  
