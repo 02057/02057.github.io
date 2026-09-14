@@ -19,3 +19,17 @@ title: "task2(3) - Ctrl+U 查看 HTML 实体编码获取 Flag"
 3. 在源代码中搜索关键词 `flag`，或在注释里寻找形如 `&#102;&#108;&#97;&#103;...` 的实体编码字符串。
 4. 把这段 HTML 实体编码复制出来，进行解码。
 5. 解码后得到形如 `flag{...}` 的字符串，即为 Flag。
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  ">
+    ← 返回首页
+  </a>
+</div>
