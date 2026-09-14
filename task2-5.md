@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "task2(5) - F12 网络面板查看响应头获取 Flag"
+title: "task2(5)头等舱 - F12 网络面板查看响应头获取 Flag"
 ---
 
-# task2(5)：F12 网络面板查看响应头获取 Flag
+# task2(5)头等舱：F12 网络面板查看响应头获取 Flag
 
 ## 一、题目信息
 平台：CTF靶场  
