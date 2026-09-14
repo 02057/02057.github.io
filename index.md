@@ -62,4 +62,11 @@ title: 02057的博客
     border-radius: 8px; font-size: 18px; font-weight: bold;">
     task2(7)POST
   </a>
+
+  <a href="/task2-8.html" style="
+    display: block; padding: 15px 20px; background-color: #2563eb;
+    color: white; text-align: center; text-decoration: none;
+    border-radius: 8px; font-size: 18px; font-weight: bold;">
+    task2(8).SOURCE
+  </a>
 </div>
