@@ -18,3 +18,17 @@ title: "task2(4) - ESC 停止刷新 + Ctrl+U 获取 Flag"
 2. 盯住页面内容，当**正确图片显示出来**时，立刻按下 `ESC` 键，停止页面加载和 JS 定时器。
 3. 此时页面静止，按 `Ctrl+U` 查看网页源代码。
 4. 在源代码中搜索关键词 `flag`，找到形如 `flag{...}` 的字符串，即为 Flag。
+<div style="text-align: center; margin-top: 40px;">
+  <a href="/" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  ">
+    ← 返回首页
+  </a>
+</div>
