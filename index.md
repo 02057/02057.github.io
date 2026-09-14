@@ -7,7 +7,7 @@ title: 02057的博客
 
 <div style="display: flex; flex-direction: column; gap: 15px; margin: 30px auto 0; max-width: 300px; width: 100%;">
 
-  <a href="/task1/" style="
+  <a href="/task1.html" style="
     display: block;
     padding: 15px 20px;
     background-color: #2563eb;
@@ -21,7 +21,7 @@ title: 02057的博客
     Task 1
   </a>
 
-  <a href="/task2/" style="
+  <a href="/task2.html" style="
     display: block;
     padding: 15px 20px;
     background-color: #2563eb;
@@ -35,7 +35,7 @@ title: 02057的博客
     task2(1)滑稽
   </a>
 
-  <a href="/task2-2/" style="
+  <a href="/task2-2.html" style="
     display: block;
     padding: 15px 20px;
     background-color: #2563eb;
