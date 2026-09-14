@@ -32,13 +32,20 @@ title: 02057的博客
     display: block; padding: 15px 20px; background-color: #2563eb;
     color: white; text-align: center; text-decoration: none;
     border-radius: 8px; font-size: 18px; font-weight: bold;">
-    task2(3)HTML编码
+    task2(3)alert
   </a>
 
   <a href="/task2-4.html" style="
     display: block; padding: 15px 20px; background-color: #2563eb;
     color: white; text-align: center; text-decoration: none;
     border-radius: 8px; font-size: 18px; font-weight: bold;">
-    task2(4)ESC停止刷新
+    task2(4)你必须让他停下
+  </a>
+
+  <a href="/task2-5.html" style="
+    display: block; padding: 15px 20px; background-color: #2563eb;
+    color: white; text-align: center; text-decoration: none;
+    border-radius: 8px; font-size: 18px; font-weight: bold;">
+    task2(5)头等舱
   </a>
 </div>
