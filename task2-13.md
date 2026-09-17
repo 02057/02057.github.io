@@ -33,61 +33,118 @@ Ook! 每两个标记组合成一个 Brainfuck 指令，按规则翻译后运行�
 使用 Python 脚本把 Ook 文本转换成 Brainfuck 代码：
 
 import re
+
 with open('Ook.txt', 'r', encoding='utf-8') as f:
+ 
     text = f.read()
+
 mapping = {
+ 
     'Ook. Ook.': '+',
+  
     'Ook! Ook!': '-',
+  
     'Ook. Ook?': '>',
+   
     'Ook? Ook.': '<',
+    
     'Ook! Ook.': '.',
+    
     'Ook. Ook!': ',',
+   
     'Ook! Ook?': '[',
+   
     'Ook? Ook!': ']',
+
 }
+
 tokens = re.findall(r'Ook[.?!]', text)
+
 bf = ''
+
 for i in range(0, len(tokens) - 1, 2):
+ 
     key = tokens[i] + ' ' + tokens[i+1]
+
     if key in mapping:
+   
         bf += mapping[key]
+
 def run_bf(code):
+ 
     tape = [0] * 30000
+  
     ptr = 0
+  
     pc = 0
+
     output = ''
+  
+
     stack = []
+    
     bracket_map = {}
+    
     # 预计算括号匹配
+    
     for i, c in enumerate(code):
+    
         if c == '[':
+        
             stack.append(i)
+        
         elif c == ']':
+ 
             j = stack.pop()
+
             bracket_map[i] = j
+
             bracket_map[j] = i
+
     while pc < len(code):
+
         c = code[pc]
+  
         if c == '>':
+  
             ptr += 1
+  
         elif c == '<':
+  
             ptr -= 1
+  
         elif c == '+':
+    
             tape[ptr] = (tape[ptr] + 1) % 256
+  
         elif c == '-':
+    
             tape[ptr] = (tape[ptr] - 1) % 256
+    
         elif c == '.':
+     
             output += chr(tape[ptr])
+     
         elif c == ',':
+    
             pass  # 本题不需要输入
+      
         elif c == '[':
+      
             if tape[ptr] == 0:
+      
                 pc = bracket_map[pc]
+    
         elif c == ']':
+ 
             if tape[ptr] != 0:
+
                 pc = bracket_map[pc]
+
         pc += 1
+
     return output
+
 print(run_bf(bf))
 
 <div style="text-align: center; margin-top: 40px;">
